@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+
+# Ignore model files
+*.dat
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temp files
+*.log
+*.tmp
